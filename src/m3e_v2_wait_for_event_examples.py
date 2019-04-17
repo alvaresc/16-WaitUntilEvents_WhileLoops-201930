@@ -171,7 +171,6 @@ def wait_for_small_enough_number(small_number, max_number):
 
     return count
 
-
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
